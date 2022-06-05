@@ -1,0 +1,13 @@
+# windows
+Include
+Lib
+Scripts
+
+# Mac
+include
+bin
+lib
+
+# common
+pyvenv.cfg
+*.pyc
