@@ -21,7 +21,7 @@ items = list(map(strip_all, items))
 print(items)
 
 # 3) 람다 함수 사용
-itmes = list(map(lambda x : x.strip(),items))
+items = list(map(lambda x : x.strip(),items))
 print(items)
 
 # 2. filter 함수
